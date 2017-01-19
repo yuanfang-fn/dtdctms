@@ -1,0 +1,6 @@
+{
+  "title": "大驼队 中文指南",
+  "description": "大驼队",
+  "language": "zh-hans",
+  "plugins": ["toggle-chapters"]
+}
