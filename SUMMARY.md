@@ -25,6 +25,8 @@
     * [7-5 属性配置](货主/7xi-tong-pei-zhi/7-5-shu-xing-pei-zhi.md)
     * [7-6 通知配置](货主/7xi-tong-pei-zhi/7-6-tong-zhi-pei-zhi.md)
   * [8.增值服务](货主/8zeng-zhi-fu-wu.md)
+  * [9.我的账户](货主/9wo-de-zhang-hu.md)
+  * [10.提醒通知](货主/10ti-xing-tong-zhi.md)
 * [承运商·电脑端](承运商·电脑端/1·注册.md)
   * [1·注册](承运商·电脑端/1·注册.md)
   * [2·登录](承运商·电脑端/2·登录.md)
